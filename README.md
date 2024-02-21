@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLYFAhXos--Q5nROjX3olDzCn9Q6lsWnsX
 -  Extension and file type exploratory data analysis.
 ##### --video_to_audio.py
 -  Video to audio MP3 conversion and store all MP3 files in a single folder.
-##### --generate_clost_captions_fast.py
+##### --generate_close_captions_fast.py
 - Generate close captions/transcript for the videos/audios
 ##### --topic_modelling_bertopic.ipynb
 - Topic modelling on the transcript to understand content.
